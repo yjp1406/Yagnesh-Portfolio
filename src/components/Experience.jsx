@@ -52,12 +52,7 @@ const Experience = () => {
       nameobj: "Tailwind",
       style: 'shadow-sky-400'
     },
-    {
-      id: 8,
-      src: nextjs,
-      nameobj: "NextJs",
-      style: 'shadow-white'
-    },
+    
   ];
   return (
     <div
